@@ -1,0 +1,1 @@
+@docker build -t willh/cmatrix . && docker push willh/cmatrix
